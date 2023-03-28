@@ -4,7 +4,7 @@ pillow==9.0.1
 pydantic==1.8.2
 pytest==6.2.4
 PyYAML==5.4.1
-redis==4.1.0
+redis==4.3.6
 requests==2.25.1
 responses==0.16.0
 uvicorn[standard]==0.16.0
